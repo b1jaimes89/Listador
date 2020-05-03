@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">Listador</string>
+    <string name="instruccion">¡Agrega tus peliculas favoritas!</string>
+    <string name="nombre">Título:</string>
+    <string name="fecha">Año:</string>
+    <string name="calificacion">Tu calificación:</string>
+    <string name="genero">Genero:</string>
+    <string name="llenado">Introduce los siguientes datos</string>
+    <string name="agregar">¡Agregar!</string>
+    <string name="mispelis">¡Mirar listado!</string>
+    <string name="insertatitulo">Inserta el título</string>
+    <string name="insertafecha">AAAA</string>
+    <string name="insertacali" translatable="false">00</string>
+    <string name="campovacio">Campo vacio</string>
+    <string name="maxmin" translatable="false">Max: 10  y Min: 0</string>
+    <string name="numinvalido">Número invalido</string>
+    <string name="error">Error</string>
+    <string name="inforvalida">Inserte MAYÙSCULAS sin caracteres, por favor</string>
+    <string name="fechainva">Fecha invalida</string>
+    <string name="mayorprimera">Dede ser mayor a 1895</string>
+    <string name="caliinva">Calificacion invalida</string>
+    <string name="accion">Acción</string>
+    <string name="aventuras">Aventuras</string>
+    <string name="comedia">Comedia</string>
+    <string name="drama">Drama</string>
+    <string name="terror">Terror</string>
+    <string name="musicales">Musicales</string>
+    <string name="cienciafic">Ciencia ficción</string>
+    <string name="infantil">Infantiles</string>
+    <string name="suspenso">Suspenso</string>
+    <string name="selegenero">Selecciona un genero:</string>
+    <string name="elementoagregado">"¡Elemento agregado!  Total: "</string>
+    <string name="almenosuno">Añade almenos un elemento.</string>
+    <string name="tuspeliculas">Tus peliculas:</string>
+    <string name="elides">El ID del elemento es:</string>
+</resources>

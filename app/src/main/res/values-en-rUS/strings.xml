@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="instruccion">Add your favorite movies!</string>
+    <string name="nombre">Title:</string>
+    <string name="fecha">Year:</string>
+    <string name="calificacion">"Your rating: "</string>
+    <string name="genero">Genres:</string>
+    <string name="llenado">"Type the following data: "</string>
+    <string name="agregar">ADD!</string>
+    <string name="insertatitulo">Type the title</string>
+    <string name="insertafecha">YYYY</string>
+    <string name="campovacio">Empty field</string>
+    <string name="numinvalido">Invalid number</string>
+    <string name="error">Error</string>
+    <string name="inforvalida">Use capital LETTERS whitout special characteres,please</string>
+    <string name="fechainva">Invalid date</string>
+    <string name="mayorprimera">Min 1895</string>
+    <string name="caliinva">Invalid rating</string>
+    <string name="accion">Action</string>
+    <string name="aventuras">Adventures</string>
+    <string name="comedia">Comedy</string>
+    <string name="drama">Drama</string>
+    <string name="terror">Horror</string>
+    <string name="musicales">Musical</string>
+    <string name="cienciafic">Scientific</string>
+    <string name="infantil">Animation</string>
+    <string name="suspenso">Suspense</string>
+    <string name="selegenero">Select a genre:</string>
+    <string name="elementoagregado">Aggregate element! Total</string>
+    <string name="almenosuno">Empty list.</string>
+    <string name="tuspeliculas">Your movies:</string>
+    <string name="mispelis">Look list!</string>
+    <string name="elides">The ID is:</string>
+</resources>
